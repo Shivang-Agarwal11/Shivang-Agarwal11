@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Learning never Ends!!
 
 ### My Github Stats:
-![Github stats](github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-AGarwal11&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-AGarwal11&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Agarwal11&layout=compact)
