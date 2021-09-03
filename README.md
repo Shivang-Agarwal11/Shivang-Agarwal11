@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Machine Learning 
 - 🤔 I’m looking for help with ...Data Science
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Linked In]:(https://www.linkedin.com/in/shivang-agarwal-9063971b8)
+- 📫 How to reach me: ...<a href="https://www.linkedin.com/in/shivang-agarwal-9063971b8">Linked In</a>
 - ⚡ Fun fact: ...Learning never Ends!!
 
 ### Languages and Tools:
