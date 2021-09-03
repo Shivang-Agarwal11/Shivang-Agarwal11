@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" background-color:"white"alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </br>
 
 ### My Github Stats:
-![Github stats](https://github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-AGarwal11&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-AGarwal11&theme=highcontrast&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Agarwal11&layout=compact)
