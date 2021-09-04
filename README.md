@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </br>
 
 ### My Github Stats:
-![Github stats](https://github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-AGarwal11&theme=highcontrast&show_icons=true&count_private=true&theme=radical)
+![Github stats](https://github-readme-stats-one-orcin-90.vercel.app/api?username=Shivang-Agarwal11&theme=highcontrast&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Agarwal11&layout=compact)
