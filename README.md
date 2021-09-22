@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </br>
 
 ### My Github Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shivang-Agarwal11)
+![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivang-Agarwal11&hide=contribs,prs)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-Agarwal11&layout=compact)
