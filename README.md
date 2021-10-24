@@ -1,6 +1,6 @@
 
 
-<a href="https://app.daily.dev/shivang11"><img src="https://api.daily.dev/devcards/18f4e5c947a6409e80b95f1a2d526d4f.png?r=ia6" width="400" height="500" alt="Shivang Agarwal's Dev Card"/></a>
+<a href="https://app.daily.dev/shivang11"><img src="https://api.daily.dev/devcards/18f4e5c947a6409e80b95f1a2d526d4f.png?r=ia6" width="400" alt="Shivang Agarwal's Dev Card"/></a>
 
 ### Hi there 👋
 
