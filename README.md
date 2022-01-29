@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ...Machine Learning 
 - 🤔 I’m looking for help with ...Data Science
 - 💬 Ask me about ...Anything
