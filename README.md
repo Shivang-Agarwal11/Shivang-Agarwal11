@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...<a href="https://www.linkedin.com/in/shivang-agarwal-9063971b8">Linked In</a>
 - ⚡ Fun fact: ...Learning never Ends!!
-
+<p align='center'>
 <img width="120px" src="https://visitor-badge.glitch.me/badge?page_id=Shivang-Agarwal11.Shivang-Agarwal11&left_color=red" alt="visitor badge"/>
-
+</p>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
